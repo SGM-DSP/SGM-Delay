@@ -5,7 +5,8 @@ Stereo delay plug-in built with JUCE/CMake.
 ## Features
 
 - VST3 and standalone builds
-- BPM-synced time divisions: 4/4, 3/4, 1/2, 1/4, 1/8, 1/16, 1/8T, 1/8D
+- BPM-synced time divisions: 8/1, 4/1, 1/2, 1/4, 1/8, 1/16, 1/8T, 1/8D
+- Msec 
 - Feedback, spread, stereo width, wet/dry mix
 - Ping-pong feedback
 - Low cut and high cut tone shaping
